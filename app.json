@@ -15,6 +15,7 @@
         }
       ]
     ],
+    "newArchEnabled": true,
     "name": "expo-tailwind",
     "slug": "expo-tailwind",
     "experiments": {
