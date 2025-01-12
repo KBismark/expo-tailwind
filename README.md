@@ -5,7 +5,7 @@ Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](
 ## 🚀 How to clone this template
 
 ```sh
-git clone https://github.com/KBismark/expo-router-with-tailwind-template.git
+git clone https://github.com/KBismark/expo-tailwind.git
 ```
 
 
